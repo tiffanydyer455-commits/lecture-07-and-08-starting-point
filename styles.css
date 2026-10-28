@@ -222,7 +222,7 @@ h3 {
   margin-top: 22px;
 }
 
-@media (min-width: 640px) {
+@ (min-width: 640px) {   .card-grid { (min-width: 640px) {
   .card-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
@@ -371,7 +371,7 @@ h3 {
   color: var(--coral);
 }
 
-@media (max-width: 600px) {
+@ (min-width: 640px) {   .card-grid { (max-width: 600px) {
   .site-header {
     min-height: 58px;
     padding: 0 20px;
